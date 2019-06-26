@@ -1,0 +1,111 @@
+{
+  "mobiles":[
+    {
+    "item":"Xiaomi Redmi Note 7 Pro",
+    "price":"14,499",
+    "description":"Connectivity options on the Samsung W2019 include Wi-Fi 802.11 a/b/g/n/ac, GPS, Bluetooth v4.20, NFC, USB Type-C, 3G, and 4G (with support for Band 40 used by some LTE networks in India) with active 4G on both SIM cards. Sensors on the phone include accelerometer, ambient light sensor, barometer, compass/ magnetometer, gyroscope, proximity sensor, and fingerprint sensor."
+  },
+  {
+    "item":"OnePlus 7 Pro.",
+    "price":"23,499",
+    "description":"Connectivity options on the Samsung W2019 include Wi-Fi 802.11 a/b/g/n/ac, GPS, Bluetooth v4.20, NFC, USB Type-C, 3G, and 4G (with support for Band 40 used by some LTE networks in India) with active 4G on both SIM cards. Sensors on the phone include accelerometer, ambient light sensor, barometer, compass/ magnetometer, gyroscope, proximity sensor, and fingerprint sensor."
+  },
+  {
+    "item":"Oppo Reno 10x Zoom.",
+    "price":"12,499",
+    "description":"Connectivity options on the Samsung W2019 include Wi-Fi 802.11 a/b/g/n/ac, GPS, Bluetooth v4.20, NFC, USB Type-C, 3G, and 4G (with support for Band 40 used by some LTE networks in India) with active 4G on both SIM cards. Sensors on the phone include accelerometer, ambient light sensor, barometer, compass/ magnetometer, gyroscope, proximity sensor, and fingerprint sensor."
+  },
+    {
+    "item":"Samsung Galaxy S10e.",
+    "price":"34,499",
+    "description":"Connectivity options on the Samsung W2019 include Wi-Fi 802.11 a/b/g/n/ac, GPS, Bluetooth v4.20, NFC, USB Type-C, 3G, and 4G (with support for Band 40 used by some LTE networks in India) with active 4G on both SIM cards. Sensors on the phone include accelerometer, ambient light sensor, barometer, compass/ magnetometer, gyroscope, proximity sensor, and fingerprint sensor."
+  },
+    {
+    "item":"Moto G6",
+    "price":"18,499",
+    "description":"Connectivity options on the Samsung W2019 include Wi-Fi 802.11 a/b/g/n/ac, GPS, Bluetooth v4.20, NFC, USB Type-C, 3G, and 4G (with support for Band 40 used by some LTE networks in India) with active 4G on both SIM cards. Sensors on the phone include accelerometer, ambient light sensor, barometer, compass/ magnetometer, gyroscope, proximity sensor, and fingerprint sensor."
+  },
+    {
+    "item":"Huawei P30 Pro",
+    "price":"16,499",
+    "description":"Connectivity options on the Samsung W2019 include Wi-Fi 802.11 a/b/g/n/ac, GPS, Bluetooth v4.20, NFC, USB Type-C, 3G, and 4G (with support for Band 40 used by some LTE networks in India) with active 4G on both SIM cards. Sensors on the phone include accelerometer, ambient light sensor, barometer, compass/ magnetometer, gyroscope, proximity sensor, and fingerprint sensor."
+  },
+    {
+    "item":"Huawei P30 Pro",
+    "price":"16,499",
+    "description":"Connectivity options on the Samsung W2019 include Wi-Fi 802.11 a/b/g/n/ac, GPS, Bluetooth v4.20, NFC, USB Type-C, 3G, and 4G (with support for Band 40 used by some LTE networks in India) with active 4G on both SIM cards. Sensors on the phone include accelerometer, ambient light sensor, barometer, compass/ magnetometer, gyroscope, proximity sensor, and fingerprint sensor."
+  },
+    {
+    "item":"Huawei P40 Pro",
+    "price":"16,499",
+    "description":"Connectivity options on the Samsung W2019 include Wi-Fi 802.11 a/b/g/n/ac, GPS, Bluetooth v4.20, NFC, USB Type-C, 3G, and 4G (with support for Band 40 used by some LTE networks in India) with active 4G on both SIM cards. Sensors on the phone include accelerometer, ambient light sensor, barometer, compass/ magnetometer, gyroscope, proximity sensor, and fingerprint sensor."
+  },
+    {
+    "item":"Moto G7",
+    "price":"20,999",
+    "description":"Connectivity options on the Samsung W2019 include Wi-Fi 802.11 a/b/g/n/ac, GPS, Bluetooth v4.20, NFC, USB Type-C, 3G, and 4G (with support for Band 40 used by some LTE networks in India) with active 4G on both SIM cards. Sensors on the phone include accelerometer, ambient light sensor, barometer, compass/ magnetometer, gyroscope, proximity sensor, and fingerprint sensor."
+  },
+    {
+    "item":"Samsung univers",
+    "price":"15,499",
+    "description":"Connectivity options on the Samsung W2019 include Wi-Fi 802.11 a/b/g/n/ac, GPS, Bluetooth v4.20, NFC, USB Type-C, 3G, and 4G (with support for Band 40 used by some LTE networks in India) with active 4G on both SIM cards. Sensors on the phone include accelerometer, ambient light sensor, barometer, compass/ magnetometer, gyroscope, proximity sensor, and fingerprint sensor."
+  }
+  ],
+  "headphones":[
+    {
+    "item":"Apple Airpods",
+    "price":"54,499",
+    "description":"The new AirPods combine intelligent design with breakthrough technology and crystal-clear sound. Powered by the new Apple H1 headphone chip, AirPods now feature hands-free access to Siri using just your voice. And up to 3 hours of talk time on a single charge"
+  }, {
+    "item":"Bose s1",
+    "price":"24,499",
+    "description":"The new AirPods combine intelligent design with breakthrough technology and crystal-clear sound. Powered by the new Apple H1 headphone chip, AirPods now feature hands-free access to Siri using just your voice. And up to 3 hours of talk time on a single charge"
+  },
+     {
+    "item":"Samsung U Level",
+    "price":"3,499",
+    "description":"The new AirPods combine intelligent design with breakthrough technology and crystal-clear sound. Powered by the new Apple H1 headphone chip, AirPods now feature hands-free access to Siri using just your voice. And up to 3 hours of talk time on a single charge"
+  },
+     {
+    "item":"MI V1",
+    "price":"599",
+    "description":"The new AirPods combine intelligent design with breakthrough technology and crystal-clear sound. Powered by the new Apple H1 headphone chip, AirPods now feature hands-free access to Siri using just your voice. And up to 3 hours of talk time on a single charge"
+  },
+     {
+    "item":"Sony zaka",
+    "price":"1999",
+    "description":"The new AirPods combine intelligent design with breakthrough technology and crystal-clear sound. Powered by the new Apple H1 headphone chip, AirPods now feature hands-free access to Siri using just your voice. And up to 3 hours of talk time on a single charge"
+  },
+     {
+    "item":"Moto",
+    "price":"799",
+    "description":"The new AirPods combine intelligent design with breakthrough technology and crystal-clear sound. Powered by the new Apple H1 headphone chip, AirPods now feature hands-free access to Siri using just your voice. And up to 3 hours of talk time on a single charge"
+  },
+     {
+    "item":"Beats ",
+    "price":"499",
+    "description":"The new AirPods combine intelligent design with breakthrough technology and crystal-clear sound. Powered by the new Apple H1 headphone chip, AirPods now feature hands-free access to Siri using just your voice. And up to 3 hours of talk time on a single charge"
+  },
+     {
+    "item":"Roller",
+    "price":"399",
+    "description":"The new AirPods combine intelligent design with breakthrough technology and crystal-clear sound. Powered by the new Apple H1 headphone chip, AirPods now feature hands-free access to Siri using just your voice. And up to 3 hours of talk time on a single charge"
+  },
+     {
+    "item":"Jazbra",
+    "price":"900",
+    "description":"The new AirPods combine intelligent design with breakthrough technology and crystal-clear sound. Powered by the new Apple H1 headphone chip, AirPods now feature hands-free access to Siri using just your voice. And up to 3 hours of talk time on a single charge"
+  },
+     {
+    "item":"JBL",
+    "price":"4,499",
+    "description":"The new AirPods combine intelligent design with breakthrough technology and crystal-clear sound. Powered by the new Apple H1 headphone chip, AirPods now feature hands-free access to Siri using just your voice. And up to 3 hours of talk time on a single charge"
+  },
+     {
+    "item":"SkullCandy",
+    "price":"2,499",
+    "description":"The new AirPods combine intelligent design with breakthrough technology and crystal-clear sound. Powered by the new Apple H1 headphone chip, AirPods now feature hands-free access to Siri using just your voice. And up to 3 hours of talk time on a single charge"
+  }
+
+  ]
+}
